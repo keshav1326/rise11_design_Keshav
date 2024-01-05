@@ -1,0 +1,65 @@
+.app-container{
+  display: flex;
+}
+.content{
+  width: 100%;
+}
+.sidebar{
+  min-height: 700px;
+}
+.search{
+  width: 20%;
+}
+.hello{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.bell{
+  margin-top: 5px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.message{
+  margin-top: 5px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.shadow{
+  margin-top: 5px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.image{
+  margin-top: 5px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.revenue{
+  margin-left: 60px;
+  font-weight: 500;
+}
+.visitors{
+  margin-left: 60px;
+  font-weight: 500;
+}
+.sale{
+  margin-left: 60px;
+  font-weight: 500;
+}
+.sale-container{
+  display: flex;
+}
+.course-status{
+  margin-left: 60px;
+  font-weight: 500;
+}
+.table{
+  margin-left: 60px;
+  margin-top: 60px;
+}
+.footer{
+  color: white;
+}
+.upload{
+  margin-right: 10px;
+}
